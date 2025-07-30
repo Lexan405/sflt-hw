@@ -16,3 +16,10 @@ python3 -m http.server 8082 &
 ```
 
 ![](img/1.png)
+
+### 2. Запуск трех Python-серверов
+
+![](img/2.png)
+
+
+
