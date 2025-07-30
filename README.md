@@ -13,5 +13,6 @@ python3 -m http.server 8081 &
 mkdir -p ~/server2 && echo "Hello from Server 2" > ~/server2/index.html
 cd ~/server2
 python3 -m http.server 8082 &
+```
 
 ![](img/1.png)
